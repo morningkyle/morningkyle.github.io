@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 19 Aug 2025 12:01:49 +0800</lastBuildDate>
     <atom:link href="http://morningkyle.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog built with SSG</title>
+      <title>Build a Blog Site with Full Control</title>
       <link>http://morningkyle.github.io/posts/blog-built-with-ssg/</link>
       <pubDate>Tue, 19 Aug 2025 12:01:49 +0800</pubDate>
       <guid>http://morningkyle.github.io/posts/blog-built-with-ssg/</guid>
-      <description>My first blog post built with Hugo and PaperMod theme</description>
+      <description>Explains the choice made for this blog site: GitHub Pages and Hugo.</description>
     </item>
   </channel>
 </rss>
