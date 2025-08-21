@@ -1,0 +1,55 @@
+Personal Blog License
+=====================
+
+Copyright (c) 2025 "morningkyle". All rights reserved.
+
+This repository contains the statically generated output of my personal blog. Unless otherwise noted, all original written content (blog posts, pages, and images I created) is protected by copyright. You are granted a limited license as follows:
+
+You MAY:
+1. Read and browse the site.
+2. Link to any public page.
+3. Quote excerpts up to 200 words per post provided you:
+   - Preserve original meaning.
+   - Include a clear attribution ("Source: morningkyle blog") AND a direct hyperlink to the original post.
+
+You MAY NOT without prior written permission:
+1. Republish any post or image in full.
+2. Create commercial compilations or translations.
+3. Use the content for training proprietary (closed) AI models intended for commercial resale.
+4. Misrepresent the source or remove attribution.
+
+Code Snippets
+-------------
+Unless explicitly stated otherwise, any small code examples appearing in posts are licensed under the MIT License below so you can freely adapt them:
+
+MIT License (for code snippets ONLY)
+-----------------------------------
+Permission is hereby granted, free of charge, to any person obtaining a copy of the code snippets included in this blog and associated documentation files (the "Code"), to deal in the Code without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Code, and to permit persons to whom the Code is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Code.
+
+THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE CODE OR THE USE OR OTHER DEALINGS IN THE CODE.
+
+Third-Party Material
+--------------------
+Any third‑party libraries, images, or quotes remain the property of their respective owners and are used under their licenses or under fair use. Those licenses (if applicable) control their use.
+
+Trademarks
+----------
+All trademarks, logos, and brand names are the property of their respective owners.
+
+Attribution Format Example
+--------------------------
+"Excerpt from 'Post Title' by morningkyle (YYYY-MM-DD), https://<your-site-domain>/<post-slug>/"
+
+Contact
+-------
+For permissions beyond this license, please open an issue or contact me via my GitHub profile.
+
+Preference for a Standard License?
+---------------------------------
+If you prefer a standard license for content, you may alternatively adopt Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Replace the above section with the standard CC text if desired.
+
+Revision
+--------
+This license may be updated prospectively. Material published prior to a change remains under the version in effect at the time of publication unless explicitly re-licensed.
