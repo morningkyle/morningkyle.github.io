@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://morningkyle.github.io/posts/introducing-0xassistant/</loc>
+    <lastmod>2025-09-02T18:17:25+08:00</lastmod>
+  </url><url>
+    <loc>http://morningkyle.github.io/</loc>
+    <lastmod>2025-09-02T18:17:25+08:00</lastmod>
+  </url><url>
+    <loc>http://morningkyle.github.io/tags/llm/</loc>
+    <lastmod>2025-09-02T18:17:25+08:00</lastmod>
+  </url><url>
+    <loc>http://morningkyle.github.io/posts/</loc>
+    <lastmod>2025-09-02T18:17:25+08:00</lastmod>
+  </url><url>
+    <loc>http://morningkyle.github.io/tags/</loc>
+    <lastmod>2025-09-02T18:17:25+08:00</lastmod>
+  </url><url>
+    <loc>http://morningkyle.github.io/tags/windbg/</loc>
+    <lastmod>2025-09-02T18:17:25+08:00</lastmod>
+  </url><url>
     <loc>http://morningkyle.github.io/tags/blog/</loc>
     <lastmod>2025-08-19T12:01:49+08:00</lastmod>
   </url><url>
@@ -11,16 +29,7 @@
     <loc>http://morningkyle.github.io/tags/hugo/</loc>
     <lastmod>2025-08-19T12:01:49+08:00</lastmod>
   </url><url>
-    <loc>http://morningkyle.github.io/</loc>
-    <lastmod>2025-08-19T12:01:49+08:00</lastmod>
-  </url><url>
-    <loc>http://morningkyle.github.io/posts/</loc>
-    <lastmod>2025-08-19T12:01:49+08:00</lastmod>
-  </url><url>
     <loc>http://morningkyle.github.io/tags/ssg/</loc>
-    <lastmod>2025-08-19T12:01:49+08:00</lastmod>
-  </url><url>
-    <loc>http://morningkyle.github.io/tags/</loc>
     <lastmod>2025-08-19T12:01:49+08:00</lastmod>
   </url><url>
     <loc>http://morningkyle.github.io/archive/</loc>
